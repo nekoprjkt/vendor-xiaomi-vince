@@ -12,6 +12,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/lib/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFileMux.so \
     vendor/xiaomi/vince/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libtrueportrait.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtrueportrait.so \
+    vendor/xiaomi/vince/proprietary/vendor/lib64/deviceInfoServiceModule.so:$(TARGET_COPY_OUT_VENDOR)/lib64/deviceInfoServiceModule.so \
     vendor/xiaomi/vince/proprietary/vendor/lib64/libgf_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_algo.so \
     vendor/xiaomi/vince/proprietary/vendor/lib64/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ca.so \
     vendor/xiaomi/vince/proprietary/vendor/lib64/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_hal.so \
